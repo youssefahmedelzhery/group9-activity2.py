@@ -6,7 +6,7 @@
 # githup URL https://github.com/youssefahmedelzhery/group9-activity2.py
 
 """the following code is a calculator that converts between different currencies"""
-
+this part is done by khalid
 """this following function is a constant in our code that gives the convergon values"""
 AED_TO_EUR = 0.25
 AED_TO_GBP = 0.22
@@ -32,7 +32,7 @@ def britishPound_to_aed(amount):
 def eur_to_aed(amount):
     return amount / AED_TO_EUR
 
-
+this part done by yousef
 """in this following function  we are calculating the total cost after conversion, and we are giving options for the conversion currencies"""
 def main():
     while True:
