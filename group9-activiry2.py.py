@@ -69,7 +69,7 @@ def main():
                 print("Returning to the main menu...")
             else:
                 print("Invalid choice")
-
+this part done by mohammed 
         elif choice == '2':
             print("Which currency do you want to convert to AED?")
             print("1. Euro (EUR)")
