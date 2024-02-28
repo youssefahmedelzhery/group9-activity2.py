@@ -1,3 +1,10 @@
+#names
+#1 yousef elzhiri
+#2 mohammed gawi
+#3 khalid abdulkadir
+
+
+
 """the following code is a calculator that converts between different currencies"""
 
 """this following function is a constant in our code that gives the convergon values"""
